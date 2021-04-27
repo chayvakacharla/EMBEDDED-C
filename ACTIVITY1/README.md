@@ -16,10 +16,10 @@
 ![OFF](Simulation/a2.png)
 
 #### 3. Car seat is vacant and heater switch is on: LED is OFF
-![OFF](Simulation/a3.jpeg)
+![OFF](Simulation/a3.png)
 
 #### 4. Car seat is occupied and heater switch is on: LED is turned ON
-![ON](Simulation/a4.jpeg)
+![ON](Simulation/a4.png)
 
 
 
