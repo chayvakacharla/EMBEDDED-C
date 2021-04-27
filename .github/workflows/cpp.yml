@@ -30,6 +30,6 @@ jobs:
         run: sudo apt-get install cppcheck
 
       # Runs a set of commands using the runners shell
-      - name: Code Quality
+      - name: Cpp Check
         run: make analysis
  
