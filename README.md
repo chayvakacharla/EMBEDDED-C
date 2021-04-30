@@ -8,10 +8,10 @@ This Controller aims at control the temperature in the car. Whenever a person se
 ### In Action
 
 ####  Car seat vacant and heater switch is off
-![OFF](Simulation/a1.png)
+![OFF](Simulation/1a.png)
 
 ####  Car seat is occupied and heater switch is on
-![ON](Simulation/a2.png)
+![ON](Simulation/2a.png)
 
 
 
