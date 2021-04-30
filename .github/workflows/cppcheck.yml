@@ -10,4 +10,4 @@ jobs:
       - name: Install cppcheck
         run: sudo apt-get install cppcheck
       - name: Cppcheck code
-        run: cppcheck ./ACTIVITY1
+        run: cppcheck
